@@ -72,7 +72,7 @@ Percentage: 88.33%
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Connect with me](linkedin.com/in/tanmaymore63)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/tanmaymore63?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 💻 GitHub: [Tanmay1545](https://github.com/Tanmay1545)
 - 📧 Email: tanmaymorerock@gmail.com
 
