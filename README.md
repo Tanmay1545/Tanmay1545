@@ -3,46 +3,79 @@
 
 ### Aspiring Data Analyst | Python • SQL • Excel • Power BI
 
-I am a final-year BE graduate in Artificial Intelligence and Data Science, interested in turning raw data into meaningful insights that support better business decisions.
+AI & Data Science engineering graduate interested in transforming raw data into meaningful insights that support business decisions. I work with Python, SQL, PostgreSQL, Excel, and Power BI to clean data, analyze trends, track KPIs, and build dashboards.
 
-I'm building my skills in data cleaning, exploratory data analysis, SQL queries, Excel reporting, and dashboard development through hands-on projects.
+- 🔍 Interested in data analytics, business intelligence, and reporting
+- 🌱 Currently strengthening my skills in SQL, Python, Excel, and Power BI
+- 📊 Building hands-on projects focused on real-world business problems
+- 📍 Mumbai, India
 
-### 🛠️ Skills & Tools
+## 🛠️ Technical Skills
 
-- **Programming:** Python, SQL
-- **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis
-- **Visualization:** Power BI, Excel
-- **Databases:** PostgreSQL, MySQL
-- **Tools:** Git, GitHub, VS Code
+**Data Analysis:** Excel, Pivot Tables, Charts, Slicers, Power Query, KPI Reporting
 
-### 📊 Featured Projects
+**Programming & Libraries:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
-**1. FarmSmart – Agriculture Recommendation System**
+**Databases:** SQL, PostgreSQL, MySQL
 
-- Crop and fertilizer recommendations using machine learning.
-- Plant disease prediction using deep learning.
-- Commodity market tracking.
+**Business Intelligence:** Power BI, DAX, Dashboard Development
 
-**[View Project on GitHub](https://github.com/Tanmay1545/Farm.git)**
+**Tools:** Jupyter Notebook, Git, GitHub, VS Code, psycopg2, SQLAlchemy
 
-**2. Tourist Attraction**
+## 📊 Featured Projects
 
-- A web-based project focused on tourist attractions.
+### 1. Customer Churn Analysis
+**Tech Stack:** PostgreSQL, Python, Pandas, Jupyter Notebook
 
-**[View Project on GitHub](https://github.com/Tanmay1545/TOURIST-ATTRACTION)**
+- Loaded customer, subscription, and support data into PostgreSQL.
+- Connected Python to PostgreSQL using psycopg2 and SQLAlchemy.
+- Cleaned and combined tables and calculated churn and retention metrics.
+- Compared churn across subscription plans and contract types.
 
-### 🌱 Currently Learning
+🔗 [View Project on GitHub](https://github.com/Tanmay1545)
 
-- Advanced Excel for data analysis
-- SQL and PostgreSQL
-- Python for data analysis
-- Power BI dashboards
+### 2. Sales Performance Dashboard
+**Tech Stack:** Power BI, Excel, Power Query, DAX
 
-### 🤝 Connect With Me
+- Cleaned and transformed sales data using Power Query.
+- Built an interactive dashboard covering KPIs, monthly trends, and product categories.
+- Created DAX measures to summarize sales performance.
+- Used slicers to make the dashboard interactive.
 
-- **GitHub:** [Tanmay1545](https://github.com/Tanmay1545)
-- **LinkedIn:** [Add your LinkedIn profile URL here](https://www.linkedin.com/)
+🔗 [Explore My GitHub Projects](https://github.com/Tanmay1545)
+
+### 3. E-Commerce Business Analytics
+**Tech Stack:** SQL, Power BI
+
+- Analyzed customer, order, product, and revenue data.
+- Used JOINs, CTEs, CASE expressions, subqueries, aggregations, and window functions.
+- Summarized business KPIs and trends for reporting and visualization.
+
+🔗 [Explore My GitHub Projects](https://github.com/Tanmay1545)
+
+## 🎓 Education
+
+**B.E. in Artificial Intelligence & Data Science**  
+Thadomal Shahani Engineering College | 2022–2026  
+CGPA: 7.07/10
+
+**HSC – Science**  
+B. N. Bandodkar College of Science | 2019–2021  
+Percentage: 88.33%
+
+## 🏆 Achievements & Experience
+
+- 🥇 First Prize — Inter-College Hackathon, 2023
+- 🥈 Second Prize — Chem-s-Cape Puzzle Solving Event, 2023
+- 🤝 Institution's Innovation Council (IIC), TSEC — Member, 2024
+- 📜 30-Days SQL Micro Course — October 2026
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [Connect with me](linkedin.com/in/tanmaymore63)
+- 💻 GitHub: [Tanmay1545](https://github.com/Tanmay1545)
+- 📧 Email: tanmaymorerock@gmail.com
 
 ---
 
-*Learning, building, and improving one project at a time.*
+*Turning data into insights, one project at a time.*
